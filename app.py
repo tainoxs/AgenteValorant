@@ -4,7 +4,7 @@ from openai import OpenAI
 app = Flask(__name__)
 
 client = OpenAI(
-    api_key="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"
+    api_key="SUA API KEY"
 )
 
 lista_mensagens = [
