@@ -20,7 +20,6 @@ Este projeto é um assistente virtual desenvolvido com Flask e a API da OpenAI, 
 - **HTML/CSS** para a interface do usuário
 - **JavaScript** para interatividade
 - **API da OpenAI** para processamento de linguagem natural
-- **Marked.js** para renderização de Markdown
 
 ## 📦 Pré-requisitos
 
